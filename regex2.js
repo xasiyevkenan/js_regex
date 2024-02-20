@@ -1,3 +1,5 @@
+//Task 2
+
 //Part 1
 const text =
   "The rain in Spain stays mainly in the plain. In Spain, in April, the rain is a pain.";
